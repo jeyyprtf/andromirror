@@ -88,6 +88,13 @@ andromirror
 
 To create a standalone executable that can run without Python installed:
 
+### Using builder build.py
+
+1. **Run build.py**
+   ```bash
+   python3 build.py
+   ```
+
 ### Using PyInstaller
 
 1. **Install PyInstaller**
