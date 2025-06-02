@@ -63,7 +63,7 @@ Before installing AndroMirror, ensure you have the following installed on your s
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/andromirror.git
+   git clone https://github.com/jeyyprtf/andromirror.git
    cd andromirror
    ```
 
@@ -241,7 +241,7 @@ Contributions are welcome! Here's how you can help:
 **Juan Madhy**
 
 - 📧 **Email**: [juanmadhy425@gmail.com](mailto:juanmadhy425@gmail.com)
-- 📱 **WhatsApp**: [+62 888-0538-5353](https://wa.me/6288805385353)
+- 📱 **WhatsApp**: [+62 888-0538-5353](https://wa.me/+6288805385353)
 - 📷 **Instagram**: [@jeyy_prtf](https://instagram.com/jeyy_prtf)
 - 💼 **LinkedIn**: [linkedin.com/in/inijuan](https://www.linkedin.com/in/inijuan/)
 - 🎵 **TikTok**: [@jeyy_prtf](https://tiktok.com/@jeyy_prtf)
@@ -300,5 +300,5 @@ SOFTWARE.
 ---
 
 <div align="center">
-Made with ❤️ by <a href="https://github.com/yourusername">Juan Madhy</a>
+Made with ❤️ by <a href="https://github.com/jeyyprtf">Juan Madhy</a>
 </div>
